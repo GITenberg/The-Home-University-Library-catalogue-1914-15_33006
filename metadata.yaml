@@ -1,0 +1,25 @@
+_repo: The-Home-University-Library-catalogue-1914-15_33006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams & Norgate
+    alias: Williams and Norgate
+    gutenberg_agent_id: '36167'
+    url: http://www.gutenberg.org/2009/agents/36167
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs'
+- !lcc 'Z'
+title: The Home University Library catalogue 1914/15
+url: http://www.gutenberg.org/ebooks/33006
